@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//https://github.com/Sebasti348/TrabajoPracticoN9_Info1/tree/main
 #define TAM_NOMBRE_ESTUDIANTE 80
 #define TAM_NOMBRE_MATERIA 80
 
